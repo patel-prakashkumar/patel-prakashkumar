@@ -6,6 +6,8 @@
 <hr />
 I'm passionate about all thing JavaScript. I work hard. I care about writing clean code and love to learn new skills. I'm currently looking for the right opportunity to work in an environment that will help me progress into a frontend developer role.
 
+<hr />
+
 - 🌱 I’m currently learning full-stack web development, with a modern JavaScript **Fullstack Development Bootcamp : MERN Stack**,  at [Hack Your Future, Denmark](https://www.hackyourfuture.dk/)
 
 <hr />
